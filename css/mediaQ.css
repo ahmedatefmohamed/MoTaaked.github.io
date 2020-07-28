@@ -1,0 +1,27 @@
+/*Start_SmartPhones_And_Tablet_Screen media*/
+@media(max-width: 767px)
+{
+
+}
+/*End_SmartPhones_And_Tablet_Screen media*/
+
+/*Start_Small_Screen media*/
+@media(min-width: 768px) and (max-width:991px)
+{
+
+}
+/*End_Small_Screen media*/
+
+/*Start_Medium_Screen media*/
+@media(min-width: 992px) and (max-width:1199px)
+{
+
+}
+/*End_Medium_Screen media*/
+
+/*Start_Large_Screen media*/
+@media(min-width: 1200px)
+{
+
+}
+/*End_Large_Screen media*/
